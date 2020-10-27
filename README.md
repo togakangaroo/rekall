@@ -4,6 +4,10 @@ This project is no longer maintained.
 
 In December 2011, a new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. This branch was later forked to become Rekall. The modularity allowed physical memory analysis functionality to be used in [GRR](https://github.com/google/grr) to enable remote live in-memory analysis.
 
+> it always sucked anyway, along with the pmem* garbage
+
+> but at least its official now
+
 ## Lessons learned:
 
 * Rekall has introduced many improvements to memory analysis methodology over the years. For more information see: http://blog.rekall-forensic.com/ 
